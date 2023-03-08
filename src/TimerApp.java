@@ -1,6 +1,7 @@
 import java.util.concurrent.TimeUnit;
 
 public class TimerApp {
+    //timer
     public static void main(String[] args) {
         //System.out.println("Hello world!");
         TimerApp inputSeconds = new TimerApp();
